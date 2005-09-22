@@ -1,5 +1,5 @@
-Summary:	lightweight screen(1) frontend
-Summary(pl):	lekki frontend do screen(1)
+Summary:	Lightweight screen(1) frontend
+Summary(pl):	Lekki frontend do programu screen(1)
 Name:		screenie
 Version:	1.25.0
 Release:	0.1
@@ -14,6 +14,11 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Screenie is a small and lightweight GNU screen(1) frontend that is
 designed to be a session handler that simplifies the process of
 administrating detached jobs by providing an interactive menu.
+
+%description -l pl
+Screenie to ma³y i lekki frontend do programu GNU screen(1)
+zaprojektowany do obs³ugi sesji upraszczaj±cy proces administrowania
+od³±czonymi zadaniami poprzez interaktywne menu.
 
 %prep
 %setup -q
