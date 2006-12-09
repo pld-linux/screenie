@@ -1,7 +1,7 @@
 Summary:	Lightweight screen(1) frontend
 Summary(pl):	Lekki frontend do programu screen(1)
 Name:		screenie
-Version:	1.25.0
+Version:	1.30.0
 Release:	0.1
 License:	GPL v2
 Group:		Applications
