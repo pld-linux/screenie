@@ -6,7 +6,7 @@ Release:	0.1
 License:	GPL v2
 Group:		Applications
 Source0:	http://pubwww.fhzh.ch/~mgloor/data/%{name}-%{version}.tar.gz
-# Source0-md5:	e61d5cc3ffc2ca79297e3de3e6fcf28a
+# Source0-md5:	bdd72ff7655c1ec24bb019cccffce7d3
 URL:		http://pubwww.fhzh.ch/~mgloor/screenie.html
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
