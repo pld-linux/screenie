@@ -27,7 +27,6 @@ od³±czonymi zadaniami poprzez interaktywne menu.
 rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT{%{_bindir},%{_mandir}/man1}
 
-
 install %{name} $RPM_BUILD_ROOT%{_bindir}
 install screenie.1 $RPM_BUILD_ROOT%{_mandir}/man1
 
@@ -38,4 +37,4 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(644,root,root,755)
 %doc AUTHORS ChangeLog README TODO
 %attr(755,root,root) %{_bindir}/*
-%{_mandir}/man1/screenie.1.gz
+%{_mandir}/man1/screenie.1*
