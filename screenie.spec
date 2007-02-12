@@ -1,5 +1,5 @@
 Summary:	Lightweight screen(1) frontend
-Summary(pl.UTF-8):   Lekki frontend do programu screen(1)
+Summary(pl.UTF-8):	Lekki frontend do programu screen(1)
 Name:		screenie
 Version:	1.30.0
 Release:	0.1
